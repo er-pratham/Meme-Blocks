@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Meme Blocks</string>
+    <string name="subhead">World Of Memes</string>
+    <string name="content_Disclaimer">Powered By Pratham Saxena</string>
+    <string name="nextButton">Next</string>
+    <string name="shareButton">Share</string>
+</resources>
